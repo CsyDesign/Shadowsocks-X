@@ -24,7 +24,7 @@ Mac Version:
 
 Windows Version:
 
---Download From Website:  [Shadowsocks for Windows v4.18](http://www.emptyus.com/data/ssx-win-v418.zip)
+--Download From Website:  [Shadowsocks for Windows v4.19](http://www.emptyus.com/data/ssx-win-v419.zip)
 
 
 ### How to use
